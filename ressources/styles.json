@@ -1,0 +1,16 @@
+{
+    "titre": [
+        ["fontSize", "3rem"],
+        ["fontFamily", "roboto"],
+        ["color", "red"]
+    ],
+    "paragraphe": [
+        ["fontSize", "2rem"],
+        ["fontFamily", "roboto"],
+        ["color", "green"]
+    ],
+    "section": [
+        ["width", "80%"],
+        ["backgroundColor", "black"]
+    ]
+}
